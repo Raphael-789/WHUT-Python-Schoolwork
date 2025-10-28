@@ -7,6 +7,7 @@ print(a,'+',b,'=','{:.3f}'.format(a+b))
 import math;
 c=int(input('输入一个整数作为圆周率的限位点'))
 print(f'{math.pi:.{c}}f')
-#第三种
+#第三种为通过round函数修改值。
 d=float(input('输入一个长长的浮点数'))
 print(round(d,c))
+
