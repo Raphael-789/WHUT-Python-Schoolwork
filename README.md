@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Rabbit Face.png" alt="Rabbit Face" width="50" height="50" />  
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Polar Bear.png" alt="Polar Bear" width="50" height="50" />
 </p>
-
+默认主枝是基础作业，其他内容请移步Branches:)
 <!-- 打字机 -->
 <p align="center">
     <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=ff9943&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+page+." />
